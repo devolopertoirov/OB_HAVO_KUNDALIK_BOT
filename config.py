@@ -1,9 +1,4 @@
-from dotenv import load_dotenv
-import os
-
-load_dotenv()
-
-bot_token = os.getenv("BOT_TOKEN")
+bot_token = 8813154552:AAGAQFP0MD_3WFYVww2_irK5oxTgNxR3Ldw
 kanallar = ["@DEVOLOPER_TOIROV", "@OB_HAVO_KUNDALIK"]
 kundalik_kanal = ["@OB_HAVO_KUNDALIK"]
 admin_ids = [8263911362]
